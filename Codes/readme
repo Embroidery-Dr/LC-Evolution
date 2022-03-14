@@ -1,2 +1,3 @@
+The graphwave algorithm is implemented through the Karate Club library (https://github.com/benedekrozemberczki/karateclub).
 Running the graphwave algorithm on all nodes takes about 4-5 hours. 
 Algorithm implementation tests can use test data (about a few minutes).
