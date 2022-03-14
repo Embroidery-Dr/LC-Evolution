@@ -1,1 +1,11 @@
-The field "YearID" is a unique identifier.
+The meaning of some fields are as follows:
+
+[YearID]        --unique identifier
+[Shape_Leng]    --The perimeter of the land cover object
+[Shape_Area]    --The area of the land cover object
+[ROLE]          --The spatial roles of the land cover object
+[LENGTH]        --adjacent boundary length
+[AREA]          --overlapping area
+[src-]          --Properties of the source node, such as [src_YearID] represents the YearID of the source node
+[nbr-]          --Properties of the destination node ,such as [nbr_YearID] represents the YearID of the destination node
+
