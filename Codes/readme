@@ -1,2 +1,2 @@
-Running the graphwave algorithm on all nodes takes a long time (about 4-5 hours). 
-Testing of algorithm implementations can be performed using test data.
+Running the graphwave algorithm on all nodes takes about 4-5 hours. 
+Algorithm implementation tests can use test data (about a few minutes).
