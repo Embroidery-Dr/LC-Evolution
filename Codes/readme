@@ -1,4 +1,4 @@
 The graphwave algorithm is implemented through the Karate Club library.
 Running the graphwave algorithm on all nodes takes about 4-5 hours (test data about a few minutes). 
 The nodes are input together instead of separately when performing graph embedding for all nodes. Therefore, the test data is only used to debug the algorithm.
-Open the Connection Tool in arcgis by "right click → edit"
+Open the "connection tool" in arcgis by "right click → edit"
